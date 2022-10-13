@@ -1,6 +1,7 @@
 <h2>main.py: 爬取代码</h2>
 
 <h3>主要需要修改的地方：</h3>
+
 ```python
 # 修改为你的电脑的edge浏览器的启动的地方，主要是改那串数据
 options.binary_location = r'C:\Program Files (x86)\Microsoft\EdgeCore\106.0.1370.42\msedge.exe'
